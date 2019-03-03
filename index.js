@@ -16,4 +16,7 @@
 //dec n 
 
 
-//makeAnInteger(n) (Assumes base 10)
+//makeAnInt(n) (Assumes base 10)
+
+
+//preserveDecimal (n)
