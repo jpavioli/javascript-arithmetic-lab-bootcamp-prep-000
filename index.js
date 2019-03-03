@@ -15,3 +15,5 @@
 
 //dec n 
 
+
+//makeAnInteger(n) (Assumes base 10)
